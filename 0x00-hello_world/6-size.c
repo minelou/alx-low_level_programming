@@ -3,7 +3,9 @@
  * main - A program that prints the size of vearious computer types
  * Return: Always 0.
  */
+
 int main(void)
+
 {
 	char a;
 	int b;
@@ -15,5 +17,5 @@ int main(void)
 	printf("Size of a long int: %zu byte(s)\n", sizeof(c));
 	printf("Size of a long long int: %zu byte(s)\n", sizeof(d));
 	printf("Size of a float: %lu byte(s)\z", sizeof(f));
-	return(0);
+	return (0);
 }
