@@ -1,6 +1,3 @@
- * Auth: vincent kip
-	 */
-
 #include <stdio.h>
 
 
